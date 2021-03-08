@@ -1,8 +1,8 @@
 
-# 
+# README-Generator
 
 ## Description 
-a
+here to help you make quick and easy README's
 
 ## Table of Contents
 * [Installation](#installation)
@@ -14,30 +14,24 @@ a
 
 
 ## Installation
-a
+example text
 
 ## Usage
-a
+example usage text
 
 ## License
-MIT
-function renderLicenseBadge(license) {
-    if (license === 'Apache 2.0') {
-        license = '[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)'
-    } else {
-        license = ''
-    }
-}
+This project/application is under the GNU GPL v3 license.
 
 ## Contributing
-a
+example contribution text
 
 ## Tests
-a
+example text instructions
 
 ## Questions
-If you have any further questions please feel free to contact me by email or referening my GitHub!
-my GitHub: https://github.com/a
+If you have any further questions please feel free to contact me by email or refrencing my GitHub!
 
-My email: a
+my GitHub: https://github.com/dylanjacobb
+
+My email: dylanjacob@gmail.com
 
