@@ -39,10 +39,10 @@ function generateMarkdown(data) {
     return `
 # ${data.title}
 
-## Description 
+## **Description** 
 ${data.description}
 
-## Table of Contents
+## **Table of Contents**
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
@@ -51,22 +51,22 @@ ${data.description}
 * [Questions](#questions)
 
 
-## Installation
+## **Installation**
 ${data.installation}
 
-## Usage
+## **Usage**
 ${data.usage}
 
-## License
+## **License**
 This project/application is under the ${data.license} license.
 
-## Contributing
+## **Contributing**
 ${data.contributing}
 
-## Tests
+## **Tests**
 ${data.tests}
 
-## Questions
+## **Questions**
 If you have any further questions please feel free to contact me by email or refrencing my GitHub!
 
 my GitHub: https://github.com/${data.github}
