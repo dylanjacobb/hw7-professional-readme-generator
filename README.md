@@ -1,5 +1,5 @@
 # hw7-professional-readme-generator
-README Generator
+Profressional README Generator
 
 ## **Project Description**
 
